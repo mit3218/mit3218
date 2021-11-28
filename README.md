@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mit3218
-- 👀 I’m interested in cs
+- 👀 I’m interested in robot
 - 🌱 I’m currently learning unity and swift
 - 💞️ I’m looking to collaborate on VR
 - 📫 How to reach me : lyysupery@163.com
